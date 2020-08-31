@@ -6,8 +6,4 @@ published: true
 ---
 
 
-
-### CV
-
 Download CV [here](file:///C:/Users/Mohit/Downloads/Curriculum%20Vitae.pdf).
-
