@@ -1,15 +1,13 @@
 ---
 layout: page
-title: About
+title: CV
 permalink: /about/
+published: true
 ---
 
-Some information about you!
 
-### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+### CV
 
-### Contact me
+Download CV [here](file:///C:/Users/Mohit/Downloads/Curriculum%20Vitae.pdf).
 
-[email@domain.com](mailto:email@domain.com)
