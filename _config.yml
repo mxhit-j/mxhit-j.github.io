@@ -6,7 +6,7 @@
 name: Mohit Kumar Jaiswal
 
 # Short bio or description (displayed in the header)
-description: I am currently a final year Masters student at Bioinformatics Centre, Savitribai Phule Pune University, India. 
+description: I am currently a final year Masters student at Bioinformatics Centre, Savitribai Phule Pune University, India. My thesis work focuses on addressing the protein folding problem from the perspective of complex networks (small-world network property), probing residue interaction graph models of protein structures. Other interests include understanding complex networks (both biological and artificial), chaos, neural circuits, SciComm, illustrations and getting lost in random places.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars1.githubusercontent.com/u/38419463?s=400&u=cf96b598a2bfc9df21cc3cdac11fbed143761701&v=4
@@ -23,7 +23,7 @@ footer-links:
   flickr:
   github: mxhit-j/mxhit-j.github.io
   instagram: _findyourhappyplace_
-  linkedin: mohit-kumar-jaiswal
+  linkedin: # mohit-kumar-jaiswal
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: pottersnewt
